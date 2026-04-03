@@ -1,0 +1,41 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files (do NOT commit .env)
+.env
+.env.*
+.env.local
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data and runtime
+data/
+history/
+
+# Python packaging
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# Test
+.pytest_cache/
+
+# Others
+*.sqlite3
